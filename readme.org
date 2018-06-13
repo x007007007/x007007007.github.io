@@ -1,4 +1,7 @@
 * 存在的原因
 
-+ 学习联系emacs的org神器
++ 学习练习emacs的org神器
 + 记录一些读书笔记
+
+*** TODO easiest accountant
+*** TODO Enable Jekyll
